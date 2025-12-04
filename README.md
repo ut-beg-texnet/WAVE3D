@@ -11,17 +11,7 @@ Instructions to run WAVE3D and then plot the results
 
 5. When the model run end type "q" for quit
 
-6. To plot the results download and install 'DosBox' https://www.dosbox.com/
-
-7. Run DosBox and on the command line type: 
-	mount c "directory where "WVPLOT" and model output files are stored 
-	e.g.:
-	mount c C:\Documents\wave_plot
-	c:
-	
-8. Then type WVPLOT and hit enter
-
-9. To navigate through WVPLOT check instructions on the manual
+6. To plot the results download and install https://github.com/ut-beg-texnet/WavePlot
 
 
 References:
@@ -35,3 +25,4 @@ Hildyard MW, Young RP. 2002. Modelling seismic waves around underground openings
 Parastatidis E, Hildyard MW, Nowacki A, Flynn WJ, Suikkanen J. 2023. Excavation Damage Zone fracture modelling for seismic tomography: A comparison of explicit fractures and effective medium approaches. International Journal of Rock Mechanics and Mining Sciences. 105509-105509 170 [doi.org/10.1016/j.ijrmms.2023.105509](https://doi.org/10.1016/j.ijrmms.2023.105509)
 
 Parastatidis E, Hildyard MW, Nowacki A. 2021. Simplified Seismic Modelling of Fractured Rock: How Effective is the Localised Effective Medium Compared to Explicit Representation of Individual Fractures. Rock Mechanics and Rock Engineering. 5465-5481 54.10 [doi.org/10.1007/s00603-021-02601-0](https://link.springer.com/article/10.1007/s00603-021-02601-0)
+
